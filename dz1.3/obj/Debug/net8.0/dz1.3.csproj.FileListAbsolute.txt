@@ -1,0 +1,14 @@
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\dz1.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\dz1.3.AssemblyInfoInputs.cache
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\dz1.3.AssemblyInfo.cs
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\dz1.3.csproj.CoreCompileInputs.cache
+D:\вуз\database and unity\ffff\dz1.3\bin\Debug\net8.0\dz1.3.exe
+D:\вуз\database and unity\ffff\dz1.3\bin\Debug\net8.0\dz1.3.deps.json
+D:\вуз\database and unity\ffff\dz1.3\bin\Debug\net8.0\dz1.3.runtimeconfig.json
+D:\вуз\database and unity\ffff\dz1.3\bin\Debug\net8.0\dz1.3.dll
+D:\вуз\database and unity\ffff\dz1.3\bin\Debug\net8.0\dz1.3.pdb
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\dz1.3.dll
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\refint\dz1.3.dll
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\dz1.3.pdb
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\dz1.3.genruntimeconfig.cache
+D:\вуз\database and unity\ffff\dz1.3\obj\Debug\net8.0\ref\dz1.3.dll

@@ -1,0 +1,14 @@
+D:\вуз\database and unity\ffff\kz2.4\bin\Debug\net8.0\kz2.4.exe
+D:\вуз\database and unity\ffff\kz2.4\bin\Debug\net8.0\kz2.4.deps.json
+D:\вуз\database and unity\ffff\kz2.4\bin\Debug\net8.0\kz2.4.runtimeconfig.json
+D:\вуз\database and unity\ffff\kz2.4\bin\Debug\net8.0\kz2.4.dll
+D:\вуз\database and unity\ffff\kz2.4\bin\Debug\net8.0\kz2.4.pdb
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\kz2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\kz2.4.AssemblyInfoInputs.cache
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\kz2.4.AssemblyInfo.cs
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\kz2.4.csproj.CoreCompileInputs.cache
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\kz2.4.dll
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\refint\kz2.4.dll
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\kz2.4.pdb
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\kz2.4.genruntimeconfig.cache
+D:\вуз\database and unity\ffff\kz2.4\obj\Debug\net8.0\ref\kz2.4.dll
