@@ -29,8 +29,8 @@ class Program
             }
             else if (d > 0)
             {
-                double x1 = (-b + d) / (2 * a);
-                double x2 = (-b - d) / (2 * a);
+                double x1 = (-b + Math.Sqrt(d)) / (2 * a);
+                double x2 = (-b - Math.Sqrt(d)) / (2 * a);
 
                 Console.Write("Корни x1 и x2  равны: {0}, {1} ", x1, x2);
             }
