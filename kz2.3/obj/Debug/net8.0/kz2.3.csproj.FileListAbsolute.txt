@@ -12,3 +12,4 @@ D:\вуз\database and unity\ffff\kz2.3\obj\Debug\net8.0\refint\kz2.3.dll
 D:\вуз\database and unity\ffff\kz2.3\obj\Debug\net8.0\kz2.3.pdb
 D:\вуз\database and unity\ffff\kz2.3\obj\Debug\net8.0\kz2.3.genruntimeconfig.cache
 D:\вуз\database and unity\ffff\kz2.3\obj\Debug\net8.0\ref\kz2.3.dll
+D:\вуз\database and unity\ffff\kz2.3\obj\Debug\net8.0\kz2.3.sourcelink.json

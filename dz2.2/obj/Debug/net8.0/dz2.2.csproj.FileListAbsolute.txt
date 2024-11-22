@@ -12,3 +12,4 @@ D:\вуз\database and unity\ffff\dz2.2\obj\Debug\net8.0\refint\dz2.2.dll
 D:\вуз\database and unity\ffff\dz2.2\obj\Debug\net8.0\dz2.2.pdb
 D:\вуз\database and unity\ffff\dz2.2\obj\Debug\net8.0\dz2.2.genruntimeconfig.cache
 D:\вуз\database and unity\ffff\dz2.2\obj\Debug\net8.0\ref\dz2.2.dll
+D:\вуз\database and unity\ffff\dz2.2\obj\Debug\net8.0\dz2.2.sourcelink.json
