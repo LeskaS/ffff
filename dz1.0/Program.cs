@@ -8,12 +8,9 @@ class Program
     {
         Console.Write("Введите число: ");
         int num = Convert.ToInt32(Console.ReadLine());
-
-
         for (int i = 2; i < num; i++)
         {
             bool numb = true;
-
             for (int j = 2; j <= Math.Sqrt(i); j++)
             {
                 if (i % j == 0)
@@ -21,16 +18,11 @@ class Program
                     numb = false;
                     break;
                 }
-
-
             }
             if (numb)
+            {
                 Console.WriteLine(i);
-
-
-
+            }
         }
-
-
     }
 }

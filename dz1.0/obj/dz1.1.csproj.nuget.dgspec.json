@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\вуз\\database and unity\\ffff\\dz2.2\\dz2.2.csproj": {}
+    "D:\\вуз\\database and unity\\ffff\\dz1.0\\dz1.1.csproj": {}
   },
   "projects": {
-    "D:\\вуз\\database and unity\\ffff\\dz2.2\\dz2.2.csproj": {
+    "D:\\вуз\\database and unity\\ffff\\dz1.0\\dz1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\вуз\\database and unity\\ffff\\dz2.2\\dz2.2.csproj",
-        "projectName": "dz2.2",
-        "projectPath": "D:\\вуз\\database and unity\\ffff\\dz2.2\\dz2.2.csproj",
+        "projectUniqueName": "D:\\вуз\\database and unity\\ffff\\dz1.0\\dz1.1.csproj",
+        "projectName": "dz1.1",
+        "projectPath": "D:\\вуз\\database and unity\\ffff\\dz1.0\\dz1.1.csproj",
         "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "D:\\вуз\\database and unity\\ffff\\dz2.2\\obj\\",
+        "outputPath": "D:\\вуз\\database and unity\\ffff\\dz1.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
