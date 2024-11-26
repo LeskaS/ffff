@@ -4,7 +4,7 @@ namespace ComplexNumbers
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
          
             Complex z1 = new Complex(6, -3);  

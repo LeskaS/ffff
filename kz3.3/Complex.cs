@@ -48,14 +48,11 @@ namespace ComplexNumbers
 
         public static Complex Divide(Complex z1, Complex z2)
         {
-            double denominator = z2._real * z2._real + z2._image * z2._image;
-            if (denominator == 0)
-            {
-                throw new DivideByZeroException("Cannot divide by zero.");
-            }
+            double den = z2._real * z2._real + z2._image * z2._image;
+            
             return new Complex(
-                (z1._real * z2._real + z1._image * z2._image) / denominator,
-                (z1._image * z2._real - z1._real * z2._image) / denominator);
+                (z1._real * z2._real + z1._image * z2._image) / den,
+                (z1._image * z2._real - z1._real * z2._image) / den);
         }
 
         public static Complex operator /(Complex z1, Complex z2)
