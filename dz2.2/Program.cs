@@ -6,13 +6,13 @@ using System.Numerics;
 
 class Program
 {
-    static BigInteger factRec(int n)
+    BigInteger factRec(int n)
     {
         if (n == 1 || n == 0) return 1; 
         return n * factRec(n - 1);
     }
 
-    static BigInteger factIt(int n)
+    BigInteger factIt(int n)
     {
         BigInteger fact2 = 1;
         for (BigInteger i = 1; i <= n; i++)
@@ -22,14 +22,14 @@ class Program
         return fact2; 
     }
 
-    static BigInteger fibRec(int n)
+     BigInteger fibRec(int n)
     {
         if (n == 0) return 0;
         if (n == 1) return 1;
         return fibRec(n - 1) + fibRec(n - 2);
     }
 
-    static BigInteger fibIt(int n)
+    BigInteger fibIt(int n)
     {
         if (n == 0) return 0;  
         if (n == 1) return 1; 
