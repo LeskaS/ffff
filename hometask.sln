@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kz3.3", "kz3.3\kz3.3.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dz1.1", "dz1.0\dz1.1.csproj", "{ACABA151-9438-4D4D-82F1-0A04E90B396B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kz_11.1", "ConsoleApp1\kz_11.1.csproj", "{92655C4D-1B69-47B3-A84B-5C383CA5694A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kz7.1", "kz7.1\kz7.1.csproj", "{D00D899C-B60E-4FB7-A2FE-E389D330B251}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{ACABA151-9438-4D4D-82F1-0A04E90B396B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACABA151-9438-4D4D-82F1-0A04E90B396B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACABA151-9438-4D4D-82F1-0A04E90B396B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92655C4D-1B69-47B3-A84B-5C383CA5694A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92655C4D-1B69-47B3-A84B-5C383CA5694A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92655C4D-1B69-47B3-A84B-5C383CA5694A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92655C4D-1B69-47B3-A84B-5C383CA5694A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00D899C-B60E-4FB7-A2FE-E389D330B251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00D899C-B60E-4FB7-A2FE-E389D330B251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00D899C-B60E-4FB7-A2FE-E389D330B251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00D899C-B60E-4FB7-A2FE-E389D330B251}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

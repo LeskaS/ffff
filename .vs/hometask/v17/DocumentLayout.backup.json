@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92655C4D-1B69-47B3-A84B-5C383CA5694A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92655C4D-1B69-47B3-A84B-5C383CA5694A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92655C4D-1B69-47B3-A84B-5C383CA5694A}|ConsoleApp1\\kz_11.1.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\consoleapp1\\kz_11.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92655C4D-1B69-47B3-A84B-5C383CA5694A}|ConsoleApp1\\kz_11.1.csproj|solutionrelative:consoleapp1\\kz_11.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D899C-B60E-4FB7-A2FE-E389D330B251}|kz7.1\\kz7.1.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz7.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00D899C-B60E-4FB7-A2FE-E389D330B251}|kz7.1\\kz7.1.csproj|solutionrelative:kz7.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCEFDE-5A5E-467D-91DA-DF295C6B4043}|dz2.2\\dz2.2.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDCEFDE-5A5E-467D-91DA-DF295C6B4043}|dz2.2\\dz2.2.csproj|solutionrelative:dz2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97F74A-6F44-47DE-8D11-2E6A6616E6F1}|dz1.3\\dz1.3.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz1.3\\dz1.3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E97F74A-6F44-47DE-8D11-2E6A6616E6F1}|dz1.3\\dz1.3.csproj|solutionrelative:dz1.3\\dz1.3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8396267C-3837-4E8E-A31F-EBF8B00F8D44}|kz3.3\\kz3.3.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz3.3\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8396267C-3837-4E8E-A31F-EBF8B00F8D44}|kz3.3\\kz3.3.csproj|solutionrelative:kz3.3\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8396267C-3837-4E8E-A31F-EBF8B00F8D44}|kz3.3\\kz3.3.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8396267C-3837-4E8E-A31F-EBF8B00F8D44}|kz3.3\\kz3.3.csproj|solutionrelative:kz3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EDCEFDE-5A5E-467D-91DA-DF295C6B4043}|dz2.2\\dz2.2.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EDCEFDE-5A5E-467D-91DA-DF295C6B4043}|dz2.2\\dz2.2.csproj|solutionrelative:dz2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AD87AC5-F83B-497A-99BA-32DD073F9AA8}|kz2.4\\kz2.4.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{284FAE17-1ECE-4392-AAC9-76AE4A017F2A}|kz2.3\\kz2.3.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{284FAE17-1ECE-4392-AAC9-76AE4A017F2A}|kz2.3\\kz2.3.csproj|solutionrelative:kz2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E97F74A-6F44-47DE-8D11-2E6A6616E6F1}|dz1.3\\dz1.3.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz1.3\\dz1.3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3E97F74A-6F44-47DE-8D11-2E6A6616E6F1}|dz1.3\\dz1.3.csproj|solutionrelative:dz1.3\\dz1.3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACABA151-9438-4D4D-82F1-0A04E90B396B}|dz1.0\\dz1.1.csproj|d:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +82,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz7.1\\Program.cs",
+              "RelativeDocumentMoniker": "kz7.1\\Program.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz7.1\\Program.cs",
+              "RelativeToolTip": "kz7.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:55:04.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kz_11.1",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\ConsoleApp1\\kz_11.1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\kz_11.1.csproj",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\ConsoleApp1\\kz_11.1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\kz_11.1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T17:51:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:50:48.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Complex.cs",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz3.3\\Complex.cs",
               "RelativeDocumentMoniker": "kz3.3\\Complex.cs",
               "ToolTip": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz3.3\\Complex.cs",
               "RelativeToolTip": "kz3.3\\Complex.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAA2wDMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T16:48:56.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "dz2.2.csproj",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz2.2\\dz2.2.csproj",
               "RelativeDocumentMoniker": "dz2.2\\dz2.2.csproj",
@@ -91,11 +142,12 @@
               "RelativeToolTip": "dz2.2\\dz2.2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T07:47:17.937Z"
+              "WhenOpened": "2024-11-22T07:47:17.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "dz1.3.csproj",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz1.3\\dz1.3.csproj",
               "RelativeDocumentMoniker": "dz1.3\\dz1.3.csproj",
@@ -103,11 +155,12 @@
               "RelativeToolTip": "dz1.3\\dz1.3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T07:45:12.219Z"
+              "WhenOpened": "2024-11-22T07:45:12.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz1.0\\Program.cs",
               "RelativeDocumentMoniker": "dz1.0\\Program.cs",
@@ -115,11 +168,12 @@
               "RelativeToolTip": "dz1.0\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:38:13.621Z"
+              "WhenOpened": "2024-11-20T19:38:13.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "dz1.csproj",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\ffff\\dz1.csproj",
               "RelativeDocumentMoniker": "ffff\\dz1.csproj",
@@ -130,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz3.3\\Program.cs",
               "RelativeDocumentMoniker": "kz3.3\\Program.cs",
@@ -145,17 +199,31 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz2.2\\Program.cs",
+              "RelativeDocumentMoniker": "dz2.2\\Program.cs",
+              "ToolTip": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz2.2\\Program.cs",
+              "RelativeToolTip": "dz2.2\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:10:00.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz2.4\\Program.cs",
               "RelativeDocumentMoniker": "kz2.4\\Program.cs",
               "ToolTip": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz2.4\\Program.cs",
               "RelativeToolTip": "kz2.4\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:22:36.191Z"
+              "WhenOpened": "2024-11-20T16:22:36.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\kz2.3\\Program.cs",
               "RelativeDocumentMoniker": "kz2.3\\Program.cs",
@@ -163,23 +231,12 @@
               "RelativeToolTip": "kz2.3\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:52:22.645Z"
+              "WhenOpened": "2024-11-20T15:52:22.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz2.2\\Program.cs",
-              "RelativeDocumentMoniker": "dz2.2\\Program.cs",
-              "ToolTip": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz2.2\\Program.cs",
-              "RelativeToolTip": "dz2.2\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwB8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:10:00.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\dz1.3\\Program.cs",
               "RelativeDocumentMoniker": "dz1.3\\Program.cs",
@@ -187,11 +244,12 @@
               "RelativeToolTip": "dz1.3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T12:26:34.388Z"
+              "WhenOpened": "2024-11-20T12:26:34.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\task2\\Program.cs",
               "RelativeDocumentMoniker": "task2\\Program.cs",
@@ -202,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0432\u0443\u0437\\database and unity\\ffff\\ffff\\Program.cs",
               "RelativeDocumentMoniker": "ffff\\Program.cs",

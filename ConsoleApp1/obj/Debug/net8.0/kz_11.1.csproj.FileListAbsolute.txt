@@ -1,0 +1,15 @@
+D:\вуз\database and unity\ffff\ConsoleApp1\bin\Debug\net8.0\kz_11.1.exe
+D:\вуз\database and unity\ffff\ConsoleApp1\bin\Debug\net8.0\kz_11.1.deps.json
+D:\вуз\database and unity\ffff\ConsoleApp1\bin\Debug\net8.0\kz_11.1.runtimeconfig.json
+D:\вуз\database and unity\ffff\ConsoleApp1\bin\Debug\net8.0\kz_11.1.dll
+D:\вуз\database and unity\ffff\ConsoleApp1\bin\Debug\net8.0\kz_11.1.pdb
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\kz_11.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\kz_11.1.AssemblyInfoInputs.cache
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\kz_11.1.AssemblyInfo.cs
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\kz_11.1.csproj.CoreCompileInputs.cache
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\kz_11.1.sourcelink.json
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\kz_11.1.dll
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\refint\kz_11.1.dll
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\kz_11.1.pdb
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\kz_11.1.genruntimeconfig.cache
+D:\вуз\database and unity\ffff\ConsoleApp1\obj\Debug\net8.0\ref\kz_11.1.dll

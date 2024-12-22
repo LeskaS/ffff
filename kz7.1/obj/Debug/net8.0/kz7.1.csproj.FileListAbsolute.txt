@@ -1,0 +1,15 @@
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\kz7.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\kz7.1.AssemblyInfoInputs.cache
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\kz7.1.AssemblyInfo.cs
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\kz7.1.csproj.CoreCompileInputs.cache
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\kz7.1.sourcelink.json
+D:\вуз\database and unity\ffff\kz7.1\bin\Debug\net8.0\kz7.1.exe
+D:\вуз\database and unity\ffff\kz7.1\bin\Debug\net8.0\kz7.1.deps.json
+D:\вуз\database and unity\ffff\kz7.1\bin\Debug\net8.0\kz7.1.runtimeconfig.json
+D:\вуз\database and unity\ffff\kz7.1\bin\Debug\net8.0\kz7.1.dll
+D:\вуз\database and unity\ffff\kz7.1\bin\Debug\net8.0\kz7.1.pdb
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\kz7.1.dll
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\refint\kz7.1.dll
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\kz7.1.pdb
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\kz7.1.genruntimeconfig.cache
+D:\вуз\database and unity\ffff\kz7.1\obj\Debug\net8.0\ref\kz7.1.dll
